@@ -1,0 +1,109 @@
+body{
+    display:flex-end;
+    align-items:center;
+    position: relative;
+    background-color: #4D5061;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+    
+.array-container{
+    height: 550px;
+    display: flex;
+    align-items: flex-end;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+
+.array-bar{
+    width:20px;
+    background-color: #E8C547;
+    display: inline-block;
+    margin: 0 1px
+}
+
+button{
+    margin: 0 20px;
+    width: 200px;
+    height: 25px;
+    background-color: #FFECD1;
+    border: none;
+    border-radius: 5px;
+    color: #78290F;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+    transition:  0.2s ease-in-out;
+    top: 200px;
+}
+  
+  button:hover {
+    background-color: #FF7D00;
+  }
+
+
+
+/* MergesortlVisualizer.css */
+
+/*
+body{
+    display:flex;
+    align-items:center;
+    position: relative;
+
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .array-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  
+  .array-bar {
+    width: 10px;
+    margin: 0 1px;
+    background-color: turquoise; 
+    display: inline-block;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+*/
+  
+
+  
+ 
+  
+
+    
